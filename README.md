@@ -1,5 +1,5 @@
 
-CryptoSaga Standard Wallet
+CryptoSaga wallet repository
 =====================================
 
 ### Coin Specs
